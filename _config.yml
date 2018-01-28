@@ -1,0 +1,29 @@
+title: Open Africa Network
+description: "A new low/zero cost payment infrastructure for Africa"
+baseurl: ""
+url: "https://openafrica.network"
+
+show_downloads: false
+
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# google_analytics: [Your Google Analytics tracking ID]
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# plugins:
+#  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
