@@ -53,7 +53,8 @@ The current participants of this consortium have unique experience in emerging m
 
 ### Ecentric
 
-(Waiting for content from Ecentric)
+As a leading African payments processor with integrations to major South African retailers and acquirers as well as over 15 years’ experience in the African payments industry.
+Ecentric aims to bring the benefits of low cost payments to our clients and their customers.
 
 ### wiGroup
 
