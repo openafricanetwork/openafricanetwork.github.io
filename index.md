@@ -51,6 +51,11 @@ The current participants of this consortium have unique experience in emerging m
 
 (Waiting for content from Luno)
 
+### Dala
+To enable a borderless, financial system for emerging market consumers, a new cryptographic token named Dala, was issued by the Dala Foundation. Dala is a general-purpose ERC-20 token that supports the operationalization and further development of scalable, blockchain-enabled platforms for emerging markets. The Dala ecosystem has a medium of exchange and microeconomic incentive structure to create strong network effects.
+
+The Dala ecosystem expands through partnerships across borders and financial services, enabling consumers and enterprises to transact, save, lend, and invest with the Dala token. Check out https://dala.org/ for more details.
+
 ### Ecentric
 
 As a leading African payments processor with integrations to major South African retailers and acquirers as well as over 15 years’ experience in the African payments industry.
