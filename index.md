@@ -29,7 +29,7 @@ The Open Africa Network project aims to take this torch and run with it by deplo
 
 ## Approach
 
-The Open Africa Network is being spearheaded by some of the continent's most successful and fastest-growing financial technology companies including [Ecentric](http://www.ecentric.co.za/), [Waxed Mobile](https://www.waxedmobile.com/) and [wiGroup](https://www.wigroupinternational.com/) with assistance from the Interledger protocol team at [Ripple](https://ripple.com).
+The Open Africa Network is being spearheaded by some of the continent's most successful and fastest-growing financial technology companies including [Ecentric](http://www.ecentric.co.za/), [Waxed Mobile](https://www.waxedmobile.com/), [wiGroup](https://www.wigroupinternational.com/) and [Dala](https://dala.org) with assistance from the Interledger protocol team at [Ripple](https://ripple.com) who are now part of an exciting new venture called [Coil](https://coil.com).
 
 These businesses fulfill numerous roles in the ecosystem including payment initiation across numerous channels, payment authorization from a variety of funding sources, transaction switching and funds settlement.
 
@@ -43,13 +43,9 @@ The initial network will focus on diversity of funding sources (EFT, card, crypt
 
 The current participants of this consortium have unique experience in emerging markets, and contribute world leading market differentiators that make the combined offering unique.
 
-### Ripple
+### Coil
 
-(Waiting for content from Ripple)
-
-### Luno
-
-(Waiting for content from Luno)
+[Coil](https://coil.com) is building a new business model for the Web using the Interledger protocol as its foundation. As core contributors to a variety of open payments initiatives, such as the [W3C Web Payments APIs](https://www.w3.org/Payments/WG/) and [Interledger protocol community](https://interledger.org), Coil is proud to be part of building an open payment network for Africa.
 
 ### Dala
 To enable a borderless, financial system for emerging market consumers, a new cryptographic token named Dala, was issued by the Dala Foundation. Dala is a general-purpose ERC-20 token that supports the operationalization and further development of scalable, blockchain-enabled platforms for emerging markets. The Dala ecosystem has a medium of exchange and microeconomic incentive structure to create strong network effects.
